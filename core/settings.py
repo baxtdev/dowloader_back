@@ -37,7 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'bot'
+    'bot',
+    'personal'
 ]
 
 MIDDLEWARE = [
@@ -124,4 +125,4 @@ STATIC_URL = 'static/'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 
-TELEGRAM_TOKEN = "8095628187:AAFi99TuuSnY-A4bgukiAzheXA6rX7EnlCk"
+TELEGRAM_TOKEN = "6741081023:AAHiOSJ8y_THfTqSe-iBj-QjOFW8coAsKek"
